@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hello, I'm Mansi Kaushik!
-💡 **Data Scientist | 🤖 Machine Learning Enthusiast | 📊 Data Analyst**
+💡 **Data Scientist | 📊 Data Analyst**
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt4bGx0NjEweWZtczJtbWtxdWptd29tdnI1cjNuZHByaWhxOHhkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gwwg7fBSUQ6WmpjKEo/giphy.gif" width="30%"/>
@@ -98,7 +98,15 @@ I love uncovering insights from data and building end-to-end intelligent solutio
 <img src="https://komarev.com/ghpvc/?username=mansik-11&label=PROFILE+VIEWS&style=for-the-badge&color=ff69b4"/>
 
 </div>
+
 ---
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+ ---
 <img align="left" height="237" src="https://media.giphy.com/media/u62hvv4QL0is/giphy.gif?cid=790b76113zt1gxmzcfm1e2102z02x917oz7ut6djwbda9du9&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
@@ -110,4 +118,9 @@ I love uncovering insights from data and building end-to-end intelligent solutio
 <div align="center">
   <img height="240" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9qN2Z1NnI3ZXZld3djdWVqbmhqN3R6cWM2MDRtcjQ0ZWg2cDY0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DMSbPdkWoRj53XdEfn/giphy.gif"  />
 </div>
+
+###
+
+</div>
+
 
