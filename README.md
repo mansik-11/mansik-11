@@ -3,8 +3,10 @@
 # 👋 Hello, I'm Mansi Kaushik!
 💡 **Data Scientist | 🤖 Machine Learning Enthusiast | 📊 Data Analyst**
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpY2b/giphy.gif" width="50%"/>
-
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt4bGx0NjEweWZtczJtbWtxdWptd29tdnI1cjNuZHByaWhxOHhkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gwwg7fBSUQ6WmpjKEo/giphy.gif" width="30%"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Bzc2x6aDE1amE1NTY3OXZvZHBkbnl4M3RxeDRmdnlka2VvOWRweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TtTVTmBoXp8txRU0C/giphy.gif" width="54%"/>
+</p>
 </div>
 
 ---
@@ -53,16 +55,22 @@ I love uncovering insights from data and building end-to-end intelligent solutio
 
 ---
 
-## 📈 GitHub Activity
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJq_223I/giphy.gif" width="35"> GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mansik-11&show_icons=true&theme=buefy&hide_border=true" alt="GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mansik-11&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansik-11&theme=buefy&hide_border=true" alt="GitHub Streak"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mansik-11&theme=react&hide_border=true" alt="GitHub Streak"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=mansik-11&theme=dark" alt="3D Contribution Graph"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansik-11&theme=react&hide_border=true&layout=compact" alt="Top Languages"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mansik-11&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mansik-11&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
 ---
@@ -90,3 +98,16 @@ I love uncovering insights from data and building end-to-end intelligent solutio
 <img src="https://komarev.com/ghpvc/?username=mansik-11&label=PROFILE+VIEWS&style=for-the-badge&color=ff69b4"/>
 
 </div>
+---
+<img align="left" height="237" src="https://media.giphy.com/media/u62hvv4QL0is/giphy.gif?cid=790b76113zt1gxmzcfm1e2102z02x917oz7ut6djwbda9du9&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
+<img align="right" height="240" src="https://media.giphy.com/media/LpovxIlh7DTfWBRDqp/giphy.gif?cid=790b76115brneyimamdweorp28u11grxm8t3y1yae4fe3mdp&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
+<div align="center">
+  <img height="240" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9qN2Z1NnI3ZXZld3djdWVqbmhqN3R6cWM2MDRtcjQ0ZWg2cDY0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DMSbPdkWoRj53XdEfn/giphy.gif"  />
+</div>
+
