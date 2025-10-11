@@ -1,7 +1,7 @@
 <div align="center">
 
 👋 Hello, I'm Mansi Kaushik!
-<p align="center">💡 Aspiring Data Scientist | 📊 Data Analysis Enthusiast</p>
+<p align="center">💡 Data Scientist | 🤖 Machine Learning Enthusiast | 📊 Data Analyst</p>
 
 <!-- Gifs -->
 
@@ -13,66 +13,61 @@
 </div>
 
 <img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
-I'm a passionate and curious individual stepping into the world of data. My goal is to leverage data to uncover insights, tell compelling stories, and solve real-world problems. I'm currently building my foundational skills in data analysis, visualization, and machine learning.
+I am a Data Science enthusiast with a passion for uncovering stories hidden within data. I enjoy applying my skills in Machine Learning, Deep Learning (TensorFlow), and Computer Vision (OpenCV) to build intelligent solutions. My goal is to transform complex datasets into actionable insights that drive decision-making.
 
-🌱 I’m currently learning: Advanced SQL, Python for Data Science (Pandas, NumPy, Matplotlib), and Power BI.
+🔭 I’m currently working on: Building end-to-end projects that leverage my skills in data analysis and machine learning.
 
-👯 I’m looking to collaborate on: Beginner-friendly data analysis projects to apply my skills.
+🌱 I’m actively learning: Advanced deep learning architectures and MLOps practices.
 
-🤔 My goal for this year: To complete my first end-to-end data science project and contribute to the data community.
+🤝 I’m open to collaborating on: Projects related to data visualization, predictive modeling, and computer vision.
 
 📫 How to reach me: mansi.kaushik.email@example.com
 
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/fAnzw6vI4ko2B5g6z6/giphy.gif" width="35"> My Tech Stack
-<h4 align="center">👩‍💻 Languages</h4>
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/fAnzw6vI4ko2B5g6z6/giphy.gif" width="35"> My Technical Skillset
+<h4 align="center">👩‍💻 Languages & Databases</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Java-007396%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" alt="Java">
 <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-R-276DC3%3Fstyle%3Dfor-the-badge%26logo%3Dr%26logoColor%3Dwhite" alt="R">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
-<h4 align="center">📊 Data & Visualization</h4>
-<p align="center">
-<img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
-<img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Tableau-E97627%3Fstyle%3Dfor-the-badge%26logo%3Dtableau%26logoColor%3Dwhite" alt="Tableau">
-</p>
-
-<h4 align="center">📚 Libraries & Frameworks</h4>
+<h4 align="center">📚 Data Science Libraries</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-NumPy-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite" alt="NumPy">
 <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
 <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-TensorFlow-FF6F00%3Fstyle%3Dfor-the-badge%26logo%3Dtensorflow%26logoColor%3Dwhite" alt="TensorFlow">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-OpenCV-5C3EE8%3Fstyle%3Dfor-the-badge%26logo%3Dopencv%26logoColor%3Dwhite" alt="OpenCV">
 </p>
 
 <h4 align="center">⚙️ Tools & Platforms</h4>
 <p align="center">
+<img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+<img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+<img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Jupyter-F37626%3Fstyle%3Dfor-the-badge%26logo%3Djupyter%26logoColor%3Dwhite" alt="Jupyter">
 </p>
 
 
 
 
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/scZlGwdmhry3V0Tcei/giphy.gif" width="35"> My GitHub Journey
-Since I'm just starting, my stats will grow over time. Stay tuned!
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/scZlGwdmhry3V0Tcei/giphy.gif" width="35"> My GitHub Activity
+As I build my portfolio, you'll see my contributions grow here!
 
 <p align="center">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_USERNAME%26theme%3Dbuefy%26hide_border%3Dtrue%26include_all_commits%3Dtrue" alt="GitHub Stats"/>
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_USERNAME%26theme%3Dbuefy%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats"/>
 </p>
 <p align="center">
 <img align="center" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DYOUR_USERNAME%26theme%3Dbuefy%26hide_border%3Dtrue" alt="GitHub Streak"/>
 </p>
 <p align="center">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_USERNAME%26theme%3Dbuefy%26hide_border%3Dtrue%26layout%3Dcompact" alt="Top Languages"/>
-</p>
-<p align="center">
 <img src="https://www.google.com/search?q=https://github-profile-3d-contrib.vercel.app/api%3Fusername%3DYOUR_USERNAME%26theme%3Ddark" alt="3D Contribution Graph"/>
 </p>
 
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/XeXzWgD6P4LG80nVYv/giphy.gif" width="35"> Projects Portfolio
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/XeXzWgD6P4LG80nVYv/giphy.gif" width="35"> Featured Projects
 <table width="100%">
 <thead>
 <tr>
@@ -83,11 +78,16 @@ Since I'm just starting, my stats will grow over time. Stay tuned!
 </thead>
 <tbody>
 <tr>
-<td><strong>✨ Coming Soon!</strong></td>
-<td>I'm currently working on my first project. It will involve exploratory data analysis on a real-world dataset. Check back soon for updates!</td>
-<td align="center">Python, Pandas, Matplotlib</td>
+<td><strong>👁️ Computer Vision Project (In Progress)</strong></td>
+<td>Developing a deep learning model to classify images from a complex dataset. The goal is to build an accurate and efficient classifier and deploy it as a simple web app.</td>
+<td align-center">Python, TensorFlow, OpenCV, Streamlit</td>
 </tr>
 <!-- Add new projects here as they are completed -->
+<tr>
+<td><strong>✨ More Coming Soon!</strong></td>
+<td>I have several exciting data analysis and machine learning projects in the pipeline. Stay tuned!</td>
+<td align="center">Pandas, Scikit-learn, Power BI</td>
+</tr>
 </tbody>
 </table>
 
@@ -114,14 +114,4 @@ Explore all my work in 📂 Repositories
 
 
 
-
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DYOUR_USERNAME%26label%3DPROFILE%2BVIEWS%26style%3Dfor-the-badge%26color%3Dff69b4" alt="Visitor count badge" />
-
-
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+ <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DYOUR_USERNAME%26label%3DPROFILE%2BVIEWS%26style%3Dfor-the-badge%26color%3Dff69b4" alt="Visitor count badge" />
