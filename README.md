@@ -66,8 +66,10 @@ I love uncovering insights from data and building end-to-end intelligent solutio
 </div>
 
 ---
+<div align="center">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJq_223I/giphy.gif" width="35"> GitHub Analytics
+</div>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mansik-11&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
@@ -86,8 +88,10 @@ I love uncovering insights from data and building end-to-end intelligent solutio
 </p>
 
 ---
+<div align="center">
 
 ## 🌍 Let's Connect
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/mansi-kaushik-" target="_blank">
