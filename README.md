@@ -108,9 +108,6 @@ I love uncovering insights from data and building end-to-end intelligent solutio
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
-  
-<img src="https://komarev.com/ghpvc/?username=mansik-11&label=PROFILE+VIEWS&style=for-the-badge&color=ff69b4"/>
-
 </div>
 
 ---
