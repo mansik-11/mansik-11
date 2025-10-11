@@ -1,17 +1,14 @@
 <div align="center">
 
-# 👋 Hello, I'm Mansi Kaushik!
-💡 **Data Scientist | 📊 Data Analyst**
+<img width="1760" height="605" alt="Green Blue Pixel Game YouTube Banner (1280 x 440 px)" src="https://github.com/user-attachments/assets/aa70ee22-2178-4ed1-8299-fb08716c6c79" />
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt4bGx0NjEweWZtczJtbWtxdWptd29tdnI1cjNuZHByaWhxOHhkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gwwg7fBSUQ6WmpjKEo/giphy.gif" width="30%"/>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Bzc2x6aDE1amE1NTY3OXZvZHBkbnl4M3RxeDRmdnlka2VvOWRweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TtTVTmBoXp8txRU0C/giphy.gif" width="54%"/>
-</p>
 </div>
 
 ---
+<div align="center">
 
 ## 👩‍💻 About Me
+</div>
 
 I’m a passionate **Data Science and AI enthusiast** with hands-on experience in **Machine Learning**, **Deep Learning (TensorFlow)**, and **Computer Vision (OpenCV)**.  
 I love uncovering insights from data and building end-to-end intelligent solutions that solve real-world problems.
@@ -22,8 +19,9 @@ I love uncovering insights from data and building end-to-end intelligent solutio
 - 📫 **Reach me at:** [mansikaushik0708@gmail.com](mailto:mansikaushik0708@gmail.com)
 
 ---
-
+<div align="center">
 ## 🧠 Technical Skillset
+</div>
 
 <div align="center">
 
