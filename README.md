@@ -20,6 +20,7 @@ I love uncovering insights from data and building end-to-end intelligent solutio
 
 ---
 <div align="center">
+  
 ## 🧠 Technical Skillset
 </div>
 
