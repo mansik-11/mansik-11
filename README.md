@@ -69,7 +69,7 @@ I love uncovering insights from data and building end-to-end intelligent solutio
 ---
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJq_223I/giphy.gif" width="35"> GitHub Analytics
+## 📊 GitHub Analytics
 </div>
 
 <p align="center">
