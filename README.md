@@ -1,8 +1,3 @@
-<div align="center">
-
-<img width="1760" height="605" alt="Green Blue Pixel Game YouTube Banner (1280 x 440 px)" src="https://github.com/user-attachments/assets/aa70ee22-2178-4ed1-8299-fb08716c6c79" />
-
-</div>
 
 ---
 <div align="center">
