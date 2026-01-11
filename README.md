@@ -7,16 +7,6 @@
 ---
 <div align="center">
 
-## 👩‍💻 About Me
-</div>
-
-I’m a passionate **Data Science and AI enthusiast** with hands-on experience in **Machine Learning**, **Deep Learning (TensorFlow)**, and **Computer Vision (OpenCV)**.  
-I love uncovering insights from data and building end-to-end intelligent solutions that solve real-world problems.
-
-- 🔭 **Currently working on:** AI-powered data analytics and ML-based automation tools.  
-- 🌱 **Learning:** Advanced Deep Learning Architectures & MLOps practices.  
-- 🤝 **Open to collaborate on:** Data visualization, predictive modeling, and computer vision projects.  
-- 📫 **Reach me at:** [mansikaushik0708@gmail.com](mailto:mansikaushik0708@gmail.com)
 
 ---
 <div align="center">
