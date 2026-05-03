@@ -1,5 +1,4 @@
 <img width="1600" height="480" alt="banner" src="https://github.com/user-attachments/assets/310ffb33-767d-4166-93d0-a3537482d4bf" />
-
 <table>
     <tr>
         <th width="70%" align="left">
@@ -13,9 +12,11 @@
             <br>
           <th width="30%">  
             <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Bzc2x6aDE1amE1NTY3OXZvZHBkbnl4M3RxeDRmdnlka2VvOWRweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TtTVTmBoXp8txRU0C/giphy.gif" alt="Data Analytics GIF">
-          <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt4bGx0NjEweWZtczJtbWtxdWptd29tdnI1cjNuZHByaWhxOHhkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gwwg7fBSUQ6WmpjKEo/giphy.gif" width="100%"/>
-        </th>
+         </th>
     </tr>
+</table>
+
+<div align="center">
 
   
 ## 🧠 Technical Skillset
