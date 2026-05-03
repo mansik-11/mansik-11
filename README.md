@@ -1,4 +1,73 @@
+<img width="1600" height="480" alt="banner" src="https://github.com/user-attachments/assets/310ffb33-767d-4166-93d0-a3537482d4bf" />
 
+<table>
+    <tr>
+        <th width="70%" align="left">
+            <h1 align="center">Hi 👋, I'm Mansi Kaushik</h1>
+            <br>
+            <ul align="left">
+                <li>📊 Passionate about <strong>turning raw data into insights that drive decisions</strong>.</li>
+                <li>🤝 Open to collaborations on <strong>real-world projects</strong>, especially in public good, travel, and sustainability.</li>
+                <li>📫 Reach me at: <strong>mansikaushik0705@gmail.com@gmail.com</strong></li>
+            </ul>
+            <br>
+          <th width="30%">  
+            <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Bzc2x6aDE1amE1NTY3OXZvZHBkbnl4M3RxeDRmdnlka2VvOWRweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TtTVTmBoXp8txRU0C/giphy.gif" alt="Data Analytics GIF">
+          <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt4bGx0NjEweWZtczJtbWtxdWptd29tdnI1cjNuZHByaWhxOHhkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gwwg7fBSUQ6WmpjKEo/giphy.gif" width="100%"/>
+        </th>
+    </tr>
+
+  
+## 🧠 Technical Skillset
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55"/>
+<img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55"/>
+<img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55"/>
+<img width="25"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="55"/>
+<img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55"/>
+<img width="15"/>
+<img src="https://matplotlib.org/stable/_static/logo_light.svg" height="55"/>
+<img width="15"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="55"/>
+<img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="55"/>
+<img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="55"/>
+<img width="25"/>
+
+<img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black.png" height="55"/>
+<img width="25"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="55"/>
+<img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="55"/>
+<img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="55"/>
+<img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="55"/>
+<img width="25"/>
+
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" height="55"/>
+<img width="15"/>
+<img src="https://img.icons8.com/color/48/000000/ms-excel.png" height="55"/>
+<img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="55"/>
+<img width="25"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55"/>
+<img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55"/>
+
+</div>
+
+<div align="center">
 
 ## 📊 GitHub Analytics
 </div>
