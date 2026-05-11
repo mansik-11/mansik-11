@@ -121,7 +121,7 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 ---
-<p align="center"> <img align = "center" src="https://github.com/diwakar2905/diwakar2905/blob/main/57615b8c0092a66c1d4058b1692955cc.gif"/>
+<p align="center"> <img align = "center" src="https://github.com/mansik-11/mansik-11/blob/main/57615b8c0092a66c1d4058b1692955cc%20(1).gif"/>
   
 <h3  align = "center"> Almost there.... ... .. 
 </p>
