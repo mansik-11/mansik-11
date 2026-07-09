@@ -6,7 +6,6 @@
             <br>
             <ul align="left">
                 <li>📊 Passionate about <strong>turning raw data into insights that drive decisions</strong>.</li>
-                <li>🤝 Open to collaborations on <strong>real-world projects</strong>, especially in public good, travel, and sustainability.</li>
                 <li>📫 Reach me at: <strong>mansikaushik0705@gmail.com@gmail.com</strong></li>
             </ul>
             <br>
