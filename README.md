@@ -6,7 +6,7 @@
             <br>
             <ul align="left">
                 <li>📊 Passionate about <strong>turning raw data into insights that drive decisions</strong>.</li>
-                <li>📫 Reach me at: <strong>mansikaushik0705@gmail.com@gmail.com</strong></li>
+                <li>📫 Reach me at: <strong>mansikaushik0705@gmail.com</strong></li>
             </ul>
             <br>
           <th width="30%">  
